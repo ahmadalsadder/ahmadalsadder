@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi there, I'm Ahmad Al-Sadder 👋
 
-<!--
-**ahmadalsadder/ahmadalsadder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a passionate Software Engineer specializing in **Web development**. I love building robust, scalable, and efficient applications that solve real-world problems. My expertise lies in designing and developing enterprise-level solutions using the .NET ecosystem.
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Tools
+- **Languages**: C#, JavaScript,TypeScript, SQL
+- **Back-end**: .NET Core, .NET , EF Core , Event Sourcing
+- **UI**: Angular, AngularJs
+- **Tools**: Azure DevOps, Docker, Git 
+- **Databases**: RDBMS, DBMS
+- **Cloud**: Microsoft Azure
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Experience
+- **10 years** of hands-on experience in software development.
+- Expertise in building **web applications**, **APIs**, and **microservices**.
+- Proficient in **database design**, **performance optimization**, and **cloud integration**.
+
+## 🔧 Projects
+**COMING SOON**:
+- Will share some private repos. 
+
+## 🌱 Interests
+- **Open-source contributions**
+- Exploring **new technologies** and frameworks
+- I love **Farming** and am passionate about sustainable farming practices. 
+
+## 📫 Let's Connect
+- LinkedIn: [Ahmad Al-Sadder](https://www.linkedin.com/in/ahmad-al-sadder)
+
+
+## 🏆 Certifcations
+- Mini MBA - University of Buckingham
+- Scrum Master I - Scrum Organization
+
+## 🎉 Fun Fact
+I'm not  **:)**  
+
+---
+
